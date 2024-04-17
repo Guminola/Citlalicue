@@ -1,0 +1,9 @@
+../Core/Src/freertos.c:89:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:103:6:MX_FREERTOS_Init	48	static
+../Core/Src/freertos.c:142:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:155:6:TARVOS3_Transmit	8	static
+../Core/Src/freertos.c:161:6:TARVOS3_Receive	8	static
+../Core/Src/freertos.c:172:6:TARVOS3_Init	24	static
+../Core/Src/freertos.c:179:6:MPU6050_Init	32	static
+../Core/Src/freertos.c:211:6:MPU6050_Read_Accel	48	static
+../Core/Src/freertos.c:239:6:MPU6050_Read_Gyro	48	static

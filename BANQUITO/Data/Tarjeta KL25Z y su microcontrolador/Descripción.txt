@@ -1,0 +1,1 @@
+Se muestra información referente a la tarjeta de desarrollo FRDM KL25Z y el microcontrolador de 32 bits Arm® Cortex®-M0+.
